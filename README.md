@@ -2,6 +2,7 @@
 
 Data assets for Starfall. This repository contains the asset
 manifest; binary packs belong to the `assets-v1` GitHub release.
+THE PRODUCTS WONT BE INCLUDED HERE.
 
 ## Files
 
